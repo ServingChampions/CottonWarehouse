@@ -308,7 +308,8 @@ footer{
 
 .call-out-section {
   background-color: #ffd700; /* Yellow-Orange background */
-  color: white;
+  color: #22262A; /* Change made in Git */
+  font-weight: 500; /* Change made in Git */
   padding: 30px;
   margin-top: 20px;
   border-radius: 10px;
